@@ -1,0 +1,987 @@
+2024-09-21 10:20:58,949:INFO:test_order:Test has get started
+2024-09-21 10:21:50,183:INFO:test_order:Test has get started
+2024-09-21 10:21:50,417:INFO:test_order:test case has ended
+2024-09-21 10:35:06,649:INFO:test_order:Test has get started
+2024-09-21 10:35:06,930:INFO:test_order:test case has ended
+2024-09-21 10:35:25,616:INFO:test_order:Test has get started
+2024-09-21 10:35:30,990:INFO:test_order:test case has ended
+2024-09-21 10:37:16,905:INFO:test_order:Test has get started
+2024-09-21 10:37:22,223:INFO:test_order:test case has ended
+2024-09-21 10:39:04,906:INFO:test_order:Test has get started
+2024-09-21 10:39:10,229:INFO:test_order:test case has ended
+2024-09-21 10:40:00,767:INFO:test_order:Test has get started
+2024-09-21 10:40:05,981:INFO:test_order:test case has ended
+2024-09-21 10:42:17,451:INFO:test_order:Test has get started
+2024-09-21 10:42:22,725:INFO:test_order:test case has ended
+2024-09-21 10:44:15,497:INFO:test_order:Test has get started
+2024-09-21 10:44:20,909:INFO:test_order:test case has ended
+2024-09-21 10:53:03,334:INFO:test_order:Test has get started
+2024-09-21 10:53:08,624:INFO:test_order:test case has ended
+2024-09-21 10:53:23,688:INFO:test_order:Test has get started
+2024-09-21 10:53:33,935:INFO:test_order:test case has ended
+2024-09-21 10:54:39,521:INFO:test_order:Test has get started
+2024-09-21 10:54:49,857:INFO:test_order:test case has ended
+2024-09-21 10:57:33,778:INFO:test_order:Test has get started
+2024-09-21 10:57:44,072:INFO:test_order:test case has ended
+2024-09-21 11:02:00,217:INFO:test_order:Test has get started
+2024-09-21 11:02:12,502:INFO:test_order:test case has ended
+2024-09-21 11:17:07,336:INFO:test_order:Test has get started
+2024-09-21 11:17:19,516:INFO:test_order:test case has ended
+2024-09-21 11:17:36,090:INFO:test_order:Test has get started
+2024-09-21 11:17:48,278:INFO:test_order:test case has ended
+2024-09-21 11:27:44,038:INFO:test_order:Test has get started
+2024-09-21 11:28:06,369:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[class='QqFHMw vslbG+ In9uk2']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FCCEFD7]
+	(No symbol) [0x00007FF76FCCF22C]
+	(No symbol) [0x00007FF76FD197F7]
+	(No symbol) [0x00007FF76FCF672F]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-21 11:30:35,734:INFO:test_order:Test has get started
+2024-09-21 11:30:57,868:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='QqFHMw vslbG+ In9uk2']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FCCEFD7]
+	(No symbol) [0x00007FF76FCCF22C]
+	(No symbol) [0x00007FF76FD197F7]
+	(No symbol) [0x00007FF76FCF672F]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-21 11:32:31,038:INFO:test_order:Test has get started
+2024-09-21 11:32:53,568:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='QqFHMw vslbG+ In9uk2']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FCCEFD7]
+	(No symbol) [0x00007FF76FCCF22C]
+	(No symbol) [0x00007FF76FD197F7]
+	(No symbol) [0x00007FF76FCF672F]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-21 11:34:37,014:INFO:test_order:Test has get started
+2024-09-21 11:34:49,347:ERROR:test_order:Message: invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FC81CD3]
+	(No symbol) [0x00007FF76FC84071]
+	(No symbol) [0x00007FF76FC84110]
+	(No symbol) [0x00007FF76FCCEB4C]
+	(No symbol) [0x00007FF76FCCF22C]
+	(No symbol) [0x00007FF76FD197F7]
+	(No symbol) [0x00007FF76FCF672F]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-21 11:36:43,373:INFO:test_order:Test has get started
+2024-09-21 11:37:07,615:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"css selector","selector":".QqFHMw vslbG+ In9uk2"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FCCEFD7]
+	(No symbol) [0x00007FF76FCCF22C]
+	(No symbol) [0x00007FF76FD197F7]
+	(No symbol) [0x00007FF76FCF672F]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-21 11:38:48,899:INFO:test_order:Test has get started
+2024-09-21 11:39:11,366:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"css selector","selector":".QqFHMw vslbG+ _3Yl67G _7Pd1Fp"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FCCEFD7]
+	(No symbol) [0x00007FF76FCCF22C]
+	(No symbol) [0x00007FF76FD197F7]
+	(No symbol) [0x00007FF76FCF672F]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-21 11:41:45,438:INFO:test_order:Test has get started
+2024-09-21 11:42:02,410:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='Justice League SuperHero (Superman,Batman,Wonder Woman,The Flash,Cyborg,Aquaman,Green Lantern) Ball Pen']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FCCEFD7]
+	(No symbol) [0x00007FF76FCCF22C]
+	(No symbol) [0x00007FF76FD197F7]
+	(No symbol) [0x00007FF76FCF672F]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-21 11:42:24,227:INFO:test_order:Test has get started
+2024-09-21 11:42:51,455:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Add to cart']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FCCEFD7]
+	(No symbol) [0x00007FF76FCCF22C]
+	(No symbol) [0x00007FF76FD197F7]
+	(No symbol) [0x00007FF76FCF672F]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-21 16:20:17,944:INFO:test_order:Test has get started
+2024-09-21 16:20:46,527:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Add to cart']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FCCEFD7]
+	(No symbol) [0x00007FF76FCCF22C]
+	(No symbol) [0x00007FF76FD197F7]
+	(No symbol) [0x00007FF76FCF672F]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-21 16:24:08,507:INFO:test_order:Test has get started
+2024-09-21 16:24:36,124:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/form[1]/button[1]"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FCCEFD7]
+	(No symbol) [0x00007FF76FCCF22C]
+	(No symbol) [0x00007FF76FD197F7]
+	(No symbol) [0x00007FF76FCF672F]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-21 16:27:48,437:INFO:test_order:Test has get started
+2024-09-21 16:28:15,831:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"link text","selector":"Add to cart"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FCCEFD7]
+	(No symbol) [0x00007FF76FCCF22C]
+	(No symbol) [0x00007FF76FD197F7]
+	(No symbol) [0x00007FF76FCF672F]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-21 16:30:42,244:INFO:test_order:Test has get started
+2024-09-21 16:31:10,569:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"css selector","selector":"button[class='QqFHMw vslbG+ In9uk2']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FCCEFD7]
+	(No symbol) [0x00007FF76FCCF22C]
+	(No symbol) [0x00007FF76FD197F7]
+	(No symbol) [0x00007FF76FCF672F]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-21 16:41:33,028:INFO:test_order:Test has get started
+2024-09-21 16:42:00,379:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='GO TO CART'][1]"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FCCEFD7]
+	(No symbol) [0x00007FF76FCCF22C]
+	(No symbol) [0x00007FF76FD197F7]
+	(No symbol) [0x00007FF76FCF672F]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-21 16:45:06,341:INFO:test_order:Test has get started
+2024-09-21 16:45:33,715:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"(//button[contains(text(), 'Add to Cart')])[1]"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FCCEFD7]
+	(No symbol) [0x00007FF76FCCF22C]
+	(No symbol) [0x00007FF76FD197F7]
+	(No symbol) [0x00007FF76FCF672F]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-22 10:33:19,719:INFO:test_order:Test has get started
+2024-09-22 10:33:25,994:ERROR:test_order:Message: element click intercepted: Element <button class="_2iLD__" type="submit" aria-label="Search for Products, Brands and More" title="Search for Products, Brands and More">...</button> is not clickable at point (246, 33). Other element would receive the click: <div class="_23axDd"></div>
+  (Session info: chrome=128.0.6613.139)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FCD6C0E]
+	(No symbol) [0x00007FF76FCD4682]
+	(No symbol) [0x00007FF76FCD1B9B]
+	(No symbol) [0x00007FF76FCD0DB5]
+	(No symbol) [0x00007FF76FCC2D61]
+	(No symbol) [0x00007FF76FCF66EA]
+	(No symbol) [0x00007FF76FCC26A6]
+	(No symbol) [0x00007FF76FCF6900]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-22 10:33:47,305:INFO:test_order:Test has get started
+2024-09-22 10:34:09,285:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='Justice League SuperHero (Superman,Batman,Wonder Woman,The Flash,Cyborg,Aquaman,Green Lantern) Ball Pen']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FCCEFD7]
+	(No symbol) [0x00007FF76FCCF22C]
+	(No symbol) [0x00007FF76FD197F7]
+	(No symbol) [0x00007FF76FCF672F]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 10:20:37,806:INFO:test_order:Test has get started
+2024-09-23 10:20:59,572:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='Justice League SuperHero (Superman,Batman,Wonder Woman,The Flash,Cyborg,Aquaman,Green Lantern) Ball Pen']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF68D5AB5D2+29090]
+	(No symbol) [0x00007FF68D51E689]
+	(No symbol) [0x00007FF68D3DB1CA]
+	(No symbol) [0x00007FF68D42EFD7]
+	(No symbol) [0x00007FF68D42F22C]
+	(No symbol) [0x00007FF68D4797F7]
+	(No symbol) [0x00007FF68D45672F]
+	(No symbol) [0x00007FF68D4765D9]
+	(No symbol) [0x00007FF68D456493]
+	(No symbol) [0x00007FF68D4209B1]
+	(No symbol) [0x00007FF68D421B11]
+	GetHandleVerifier [0x00007FF68D8C8C5D+3295277]
+	GetHandleVerifier [0x00007FF68D914843+3605523]
+	GetHandleVerifier [0x00007FF68D90A707+3564247]
+	GetHandleVerifier [0x00007FF68D666EB6+797318]
+	(No symbol) [0x00007FF68D52980F]
+	(No symbol) [0x00007FF68D5253F4]
+	(No symbol) [0x00007FF68D525580]
+	(No symbol) [0x00007FF68D514A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 10:25:43,560:INFO:test_order:Test has get started
+2024-09-23 10:26:05,167:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[title='CROSS Refill BP Ball Pen Refill']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AAE2B5D2+29090]
+	(No symbol) [0x00007FF6AAD9E689]
+	(No symbol) [0x00007FF6AAC5B1CA]
+	(No symbol) [0x00007FF6AACAEFD7]
+	(No symbol) [0x00007FF6AACAF22C]
+	(No symbol) [0x00007FF6AACF97F7]
+	(No symbol) [0x00007FF6AACD672F]
+	(No symbol) [0x00007FF6AACF65D9]
+	(No symbol) [0x00007FF6AACD6493]
+	(No symbol) [0x00007FF6AACA09B1]
+	(No symbol) [0x00007FF6AACA1B11]
+	GetHandleVerifier [0x00007FF6AB148C5D+3295277]
+	GetHandleVerifier [0x00007FF6AB194843+3605523]
+	GetHandleVerifier [0x00007FF6AB18A707+3564247]
+	GetHandleVerifier [0x00007FF6AAEE6EB6+797318]
+	(No symbol) [0x00007FF6AADA980F]
+	(No symbol) [0x00007FF6AADA53F4]
+	(No symbol) [0x00007FF6AADA5580]
+	(No symbol) [0x00007FF6AAD94A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 10:26:36,234:INFO:test_order:Test has get started
+2024-09-23 10:26:53,068:ERROR:test_order:Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression (//button[@class='QqFHMw vslbG+ In9uk2'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '(//button[@class='QqFHMw vslbG+ In9uk2']' is not a valid XPath expression."}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AAE2B5D2+29090]
+	(No symbol) [0x00007FF6AAD9E689]
+	(No symbol) [0x00007FF6AAC5B1CA]
+	(No symbol) [0x00007FF6AAC61CD3]
+	(No symbol) [0x00007FF6AAC64071]
+	(No symbol) [0x00007FF6AAC64110]
+	(No symbol) [0x00007FF6AACAEB4C]
+	(No symbol) [0x00007FF6AACAF22C]
+	(No symbol) [0x00007FF6AACF97F7]
+	(No symbol) [0x00007FF6AACD672F]
+	(No symbol) [0x00007FF6AACF65D9]
+	(No symbol) [0x00007FF6AACD6493]
+	(No symbol) [0x00007FF6AACA09B1]
+	(No symbol) [0x00007FF6AACA1B11]
+	GetHandleVerifier [0x00007FF6AB148C5D+3295277]
+	GetHandleVerifier [0x00007FF6AB194843+3605523]
+	GetHandleVerifier [0x00007FF6AB18A707+3564247]
+	GetHandleVerifier [0x00007FF6AAEE6EB6+797318]
+	(No symbol) [0x00007FF6AADA980F]
+	(No symbol) [0x00007FF6AADA53F4]
+	(No symbol) [0x00007FF6AADA5580]
+	(No symbol) [0x00007FF6AAD94A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 10:28:36,735:INFO:test_order:Test has get started
+2024-09-23 10:28:53,518:ERROR:test_order:Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression (//button[class='QqFHMw vslbG+ In9uk2'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '(//button[class='QqFHMw vslbG+ In9uk2']' is not a valid XPath expression."}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AAE2B5D2+29090]
+	(No symbol) [0x00007FF6AAD9E689]
+	(No symbol) [0x00007FF6AAC5B1CA]
+	(No symbol) [0x00007FF6AAC61CD3]
+	(No symbol) [0x00007FF6AAC64071]
+	(No symbol) [0x00007FF6AAC64110]
+	(No symbol) [0x00007FF6AACAEB4C]
+	(No symbol) [0x00007FF6AACAF22C]
+	(No symbol) [0x00007FF6AACF97F7]
+	(No symbol) [0x00007FF6AACD672F]
+	(No symbol) [0x00007FF6AACF65D9]
+	(No symbol) [0x00007FF6AACD6493]
+	(No symbol) [0x00007FF6AACA09B1]
+	(No symbol) [0x00007FF6AACA1B11]
+	GetHandleVerifier [0x00007FF6AB148C5D+3295277]
+	GetHandleVerifier [0x00007FF6AB194843+3605523]
+	GetHandleVerifier [0x00007FF6AB18A707+3564247]
+	GetHandleVerifier [0x00007FF6AAEE6EB6+797318]
+	(No symbol) [0x00007FF6AADA980F]
+	(No symbol) [0x00007FF6AADA53F4]
+	(No symbol) [0x00007FF6AADA5580]
+	(No symbol) [0x00007FF6AAD94A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 10:29:02,862:INFO:test_order:Test has get started
+2024-09-23 10:29:24,528:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='CROSS Refill BP Ball Pen Refill']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AAE2B5D2+29090]
+	(No symbol) [0x00007FF6AAD9E689]
+	(No symbol) [0x00007FF6AAC5B1CA]
+	(No symbol) [0x00007FF6AACAEFD7]
+	(No symbol) [0x00007FF6AACAF22C]
+	(No symbol) [0x00007FF6AACF97F7]
+	(No symbol) [0x00007FF6AACD672F]
+	(No symbol) [0x00007FF6AACF65D9]
+	(No symbol) [0x00007FF6AACD6493]
+	(No symbol) [0x00007FF6AACA09B1]
+	(No symbol) [0x00007FF6AACA1B11]
+	GetHandleVerifier [0x00007FF6AB148C5D+3295277]
+	GetHandleVerifier [0x00007FF6AB194843+3605523]
+	GetHandleVerifier [0x00007FF6AB18A707+3564247]
+	GetHandleVerifier [0x00007FF6AAEE6EB6+797318]
+	(No symbol) [0x00007FF6AADA980F]
+	(No symbol) [0x00007FF6AADA53F4]
+	(No symbol) [0x00007FF6AADA5580]
+	(No symbol) [0x00007FF6AAD94A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 10:29:32,245:INFO:test_order:Test has get started
+2024-09-23 10:29:49,183:ERROR:test_order:Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression (//button[class='QqFHMw vslbG+ In9uk2'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '(//button[class='QqFHMw vslbG+ In9uk2']' is not a valid XPath expression."}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AAE2B5D2+29090]
+	(No symbol) [0x00007FF6AAD9E689]
+	(No symbol) [0x00007FF6AAC5B1CA]
+	(No symbol) [0x00007FF6AAC61CD3]
+	(No symbol) [0x00007FF6AAC64071]
+	(No symbol) [0x00007FF6AAC64110]
+	(No symbol) [0x00007FF6AACAEB4C]
+	(No symbol) [0x00007FF6AACAF22C]
+	(No symbol) [0x00007FF6AACF97F7]
+	(No symbol) [0x00007FF6AACD672F]
+	(No symbol) [0x00007FF6AACF65D9]
+	(No symbol) [0x00007FF6AACD6493]
+	(No symbol) [0x00007FF6AACA09B1]
+	(No symbol) [0x00007FF6AACA1B11]
+	GetHandleVerifier [0x00007FF6AB148C5D+3295277]
+	GetHandleVerifier [0x00007FF6AB194843+3605523]
+	GetHandleVerifier [0x00007FF6AB18A707+3564247]
+	GetHandleVerifier [0x00007FF6AAEE6EB6+797318]
+	(No symbol) [0x00007FF6AADA980F]
+	(No symbol) [0x00007FF6AADA53F4]
+	(No symbol) [0x00007FF6AADA5580]
+	(No symbol) [0x00007FF6AAD94A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 10:45:13,543:INFO:test_order:Test has get started
+2024-09-23 10:45:30,498:ERROR:test_order:Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression (//button[class='QqFHMw vslbG+ In9uk2'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '(//button[class='QqFHMw vslbG+ In9uk2']' is not a valid XPath expression."}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AAE2B5D2+29090]
+	(No symbol) [0x00007FF6AAD9E689]
+	(No symbol) [0x00007FF6AAC5B1CA]
+	(No symbol) [0x00007FF6AAC61CD3]
+	(No symbol) [0x00007FF6AAC64071]
+	(No symbol) [0x00007FF6AAC64110]
+	(No symbol) [0x00007FF6AACAEB4C]
+	(No symbol) [0x00007FF6AACAF22C]
+	(No symbol) [0x00007FF6AACF97F7]
+	(No symbol) [0x00007FF6AACD672F]
+	(No symbol) [0x00007FF6AACF65D9]
+	(No symbol) [0x00007FF6AACD6493]
+	(No symbol) [0x00007FF6AACA09B1]
+	(No symbol) [0x00007FF6AACA1B11]
+	GetHandleVerifier [0x00007FF6AB148C5D+3295277]
+	GetHandleVerifier [0x00007FF6AB194843+3605523]
+	GetHandleVerifier [0x00007FF6AB18A707+3564247]
+	GetHandleVerifier [0x00007FF6AAEE6EB6+797318]
+	(No symbol) [0x00007FF6AADA980F]
+	(No symbol) [0x00007FF6AADA53F4]
+	(No symbol) [0x00007FF6AADA5580]
+	(No symbol) [0x00007FF6AAD94A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 10:45:44,603:INFO:test_order:Test has get started
+2024-09-23 10:46:01,276:ERROR:test_order:Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression (//button[class='QqFHMw vslbG+ In9uk2'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '(//button[class='QqFHMw vslbG+ In9uk2']' is not a valid XPath expression."}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AAE2B5D2+29090]
+	(No symbol) [0x00007FF6AAD9E689]
+	(No symbol) [0x00007FF6AAC5B1CA]
+	(No symbol) [0x00007FF6AAC61CD3]
+	(No symbol) [0x00007FF6AAC64071]
+	(No symbol) [0x00007FF6AAC64110]
+	(No symbol) [0x00007FF6AACAEB4C]
+	(No symbol) [0x00007FF6AACAF22C]
+	(No symbol) [0x00007FF6AACF97F7]
+	(No symbol) [0x00007FF6AACD672F]
+	(No symbol) [0x00007FF6AACF65D9]
+	(No symbol) [0x00007FF6AACD6493]
+	(No symbol) [0x00007FF6AACA09B1]
+	(No symbol) [0x00007FF6AACA1B11]
+	GetHandleVerifier [0x00007FF6AB148C5D+3295277]
+	GetHandleVerifier [0x00007FF6AB194843+3605523]
+	GetHandleVerifier [0x00007FF6AB18A707+3564247]
+	GetHandleVerifier [0x00007FF6AAEE6EB6+797318]
+	(No symbol) [0x00007FF6AADA980F]
+	(No symbol) [0x00007FF6AADA53F4]
+	(No symbol) [0x00007FF6AADA5580]
+	(No symbol) [0x00007FF6AAD94A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 10:46:32,416:INFO:test_order:Test has get started
+2024-09-23 10:46:49,953:ERROR:test_order:Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression (//button[class='QqFHMw vslbG+ In9uk2'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '(//button[class='QqFHMw vslbG+ In9uk2']' is not a valid XPath expression."}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AAE2B5D2+29090]
+	(No symbol) [0x00007FF6AAD9E689]
+	(No symbol) [0x00007FF6AAC5B1CA]
+	(No symbol) [0x00007FF6AAC61CD3]
+	(No symbol) [0x00007FF6AAC64071]
+	(No symbol) [0x00007FF6AAC64110]
+	(No symbol) [0x00007FF6AACAEB4C]
+	(No symbol) [0x00007FF6AACAF22C]
+	(No symbol) [0x00007FF6AACF97F7]
+	(No symbol) [0x00007FF6AACD672F]
+	(No symbol) [0x00007FF6AACF65D9]
+	(No symbol) [0x00007FF6AACD6493]
+	(No symbol) [0x00007FF6AACA09B1]
+	(No symbol) [0x00007FF6AACA1B11]
+	GetHandleVerifier [0x00007FF6AB148C5D+3295277]
+	GetHandleVerifier [0x00007FF6AB194843+3605523]
+	GetHandleVerifier [0x00007FF6AB18A707+3564247]
+	GetHandleVerifier [0x00007FF6AAEE6EB6+797318]
+	(No symbol) [0x00007FF6AADA980F]
+	(No symbol) [0x00007FF6AADA53F4]
+	(No symbol) [0x00007FF6AADA5580]
+	(No symbol) [0x00007FF6AAD94A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 11:01:06,933:INFO:test_order:Test has get started
+2024-09-23 11:01:06,939:ERROR:test_order:Order.__init__() missing 1 required positional argument: 'driver'
+2024-09-23 11:03:47,736:INFO:test_order:Test has get started
+2024-09-23 11:03:47,752:ERROR:test_order:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=128.0.6613.139)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F21DB5D2+29090]
+	(No symbol) [0x00007FF7F214E689]
+	(No symbol) [0x00007FF7F200B1CA]
+	(No symbol) [0x00007FF7F205E5B3]
+	(No symbol) [0x00007FF7F205F22C]
+	(No symbol) [0x00007FF7F20A97F7]
+	(No symbol) [0x00007FF7F208672F]
+	(No symbol) [0x00007FF7F20A65D9]
+	(No symbol) [0x00007FF7F2086493]
+	(No symbol) [0x00007FF7F20509B1]
+	(No symbol) [0x00007FF7F2051B11]
+	GetHandleVerifier [0x00007FF7F24F8C5D+3295277]
+	GetHandleVerifier [0x00007FF7F2544843+3605523]
+	GetHandleVerifier [0x00007FF7F253A707+3564247]
+	GetHandleVerifier [0x00007FF7F2296EB6+797318]
+	(No symbol) [0x00007FF7F215980F]
+	(No symbol) [0x00007FF7F21553F4]
+	(No symbol) [0x00007FF7F2155580]
+	(No symbol) [0x00007FF7F2144A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 11:05:07,556:INFO:test_order:Test has get started
+2024-09-23 11:05:24,472:ERROR:test_order:Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression (//button[@class='QqFHMw vslbG+ In9uk2'] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '(//button[@class='QqFHMw vslbG+ In9uk2']' is not a valid XPath expression."}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F21DB5D2+29090]
+	(No symbol) [0x00007FF7F214E689]
+	(No symbol) [0x00007FF7F200B1CA]
+	(No symbol) [0x00007FF7F2011CD3]
+	(No symbol) [0x00007FF7F2014071]
+	(No symbol) [0x00007FF7F2014110]
+	(No symbol) [0x00007FF7F205EB4C]
+	(No symbol) [0x00007FF7F205F22C]
+	(No symbol) [0x00007FF7F20A97F7]
+	(No symbol) [0x00007FF7F208672F]
+	(No symbol) [0x00007FF7F20A65D9]
+	(No symbol) [0x00007FF7F2086493]
+	(No symbol) [0x00007FF7F20509B1]
+	(No symbol) [0x00007FF7F2051B11]
+	GetHandleVerifier [0x00007FF7F24F8C5D+3295277]
+	GetHandleVerifier [0x00007FF7F2544843+3605523]
+	GetHandleVerifier [0x00007FF7F253A707+3564247]
+	GetHandleVerifier [0x00007FF7F2296EB6+797318]
+	(No symbol) [0x00007FF7F215980F]
+	(No symbol) [0x00007FF7F21553F4]
+	(No symbol) [0x00007FF7F2155580]
+	(No symbol) [0x00007FF7F2144A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 12:08:25,303:INFO:test_order:Test has get started
+2024-09-23 12:08:46,270:INFO:test_order:test case has ended
+2024-09-23 12:09:06,579:INFO:test_order:Test has get started
+2024-09-23 12:09:30,483:INFO:test_order:test case has ended
+2024-09-23 13:32:11,742:INFO:test_order:Test has get started
+2024-09-23 13:32:33,810:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='CROSS Refill BP Ball Pen Refill']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF68F48B5D2+29090]
+	(No symbol) [0x00007FF68F3FE689]
+	(No symbol) [0x00007FF68F2BB1CA]
+	(No symbol) [0x00007FF68F30EFD7]
+	(No symbol) [0x00007FF68F30F22C]
+	(No symbol) [0x00007FF68F3597F7]
+	(No symbol) [0x00007FF68F33672F]
+	(No symbol) [0x00007FF68F3565D9]
+	(No symbol) [0x00007FF68F336493]
+	(No symbol) [0x00007FF68F3009B1]
+	(No symbol) [0x00007FF68F301B11]
+	GetHandleVerifier [0x00007FF68F7A8C5D+3295277]
+	GetHandleVerifier [0x00007FF68F7F4843+3605523]
+	GetHandleVerifier [0x00007FF68F7EA707+3564247]
+	GetHandleVerifier [0x00007FF68F546EB6+797318]
+	(No symbol) [0x00007FF68F40980F]
+	(No symbol) [0x00007FF68F4053F4]
+	(No symbol) [0x00007FF68F405580]
+	(No symbol) [0x00007FF68F3F4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 13:32:52,336:INFO:test_order:Test has get started
+2024-09-23 13:32:58,554:ERROR:test_order:Message: element click intercepted: Element <button class="_2iLD__" type="submit" aria-label="Search for Products, Brands and More" title="Search for Products, Brands and More">...</button> is not clickable at point (246, 33). Other element would receive the click: <div class="_23axDd"></div>
+  (Session info: chrome=128.0.6613.139)
+Stacktrace:
+	GetHandleVerifier [0x00007FF68F48B5D2+29090]
+	(No symbol) [0x00007FF68F3FE689]
+	(No symbol) [0x00007FF68F2BB1CA]
+	(No symbol) [0x00007FF68F316C0E]
+	(No symbol) [0x00007FF68F314682]
+	(No symbol) [0x00007FF68F311B9B]
+	(No symbol) [0x00007FF68F310DB5]
+	(No symbol) [0x00007FF68F302D61]
+	(No symbol) [0x00007FF68F3366EA]
+	(No symbol) [0x00007FF68F3026A6]
+	(No symbol) [0x00007FF68F336900]
+	(No symbol) [0x00007FF68F3565D9]
+	(No symbol) [0x00007FF68F336493]
+	(No symbol) [0x00007FF68F3009B1]
+	(No symbol) [0x00007FF68F301B11]
+	GetHandleVerifier [0x00007FF68F7A8C5D+3295277]
+	GetHandleVerifier [0x00007FF68F7F4843+3605523]
+	GetHandleVerifier [0x00007FF68F7EA707+3564247]
+	GetHandleVerifier [0x00007FF68F546EB6+797318]
+	(No symbol) [0x00007FF68F40980F]
+	(No symbol) [0x00007FF68F4053F4]
+	(No symbol) [0x00007FF68F405580]
+	(No symbol) [0x00007FF68F3F4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 13:33:25,533:INFO:test_order:Test has get started
+2024-09-23 13:33:47,322:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='CROSS Refill BP Ball Pen Refill']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF68F48B5D2+29090]
+	(No symbol) [0x00007FF68F3FE689]
+	(No symbol) [0x00007FF68F2BB1CA]
+	(No symbol) [0x00007FF68F30EFD7]
+	(No symbol) [0x00007FF68F30F22C]
+	(No symbol) [0x00007FF68F3597F7]
+	(No symbol) [0x00007FF68F33672F]
+	(No symbol) [0x00007FF68F3565D9]
+	(No symbol) [0x00007FF68F336493]
+	(No symbol) [0x00007FF68F3009B1]
+	(No symbol) [0x00007FF68F301B11]
+	GetHandleVerifier [0x00007FF68F7A8C5D+3295277]
+	GetHandleVerifier [0x00007FF68F7F4843+3605523]
+	GetHandleVerifier [0x00007FF68F7EA707+3564247]
+	GetHandleVerifier [0x00007FF68F546EB6+797318]
+	(No symbol) [0x00007FF68F40980F]
+	(No symbol) [0x00007FF68F4053F4]
+	(No symbol) [0x00007FF68F405580]
+	(No symbol) [0x00007FF68F3F4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 16:58:03,138:INFO:test_order:Test has get started
+2024-09-23 16:58:24,966:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='CROSS Refill BP Ball Pen Refill']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF77C20B5D2+29090]
+	(No symbol) [0x00007FF77C17E689]
+	(No symbol) [0x00007FF77C03B1CA]
+	(No symbol) [0x00007FF77C08EFD7]
+	(No symbol) [0x00007FF77C08F22C]
+	(No symbol) [0x00007FF77C0D97F7]
+	(No symbol) [0x00007FF77C0B672F]
+	(No symbol) [0x00007FF77C0D65D9]
+	(No symbol) [0x00007FF77C0B6493]
+	(No symbol) [0x00007FF77C0809B1]
+	(No symbol) [0x00007FF77C081B11]
+	GetHandleVerifier [0x00007FF77C528C5D+3295277]
+	GetHandleVerifier [0x00007FF77C574843+3605523]
+	GetHandleVerifier [0x00007FF77C56A707+3564247]
+	GetHandleVerifier [0x00007FF77C2C6EB6+797318]
+	(No symbol) [0x00007FF77C18980F]
+	(No symbol) [0x00007FF77C1853F4]
+	(No symbol) [0x00007FF77C185580]
+	(No symbol) [0x00007FF77C174A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 16:58:34,815:INFO:test_order:Test has get started
+2024-09-23 16:58:57,202:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='CROSS Refill BP Ball Pen Refill']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF77C20B5D2+29090]
+	(No symbol) [0x00007FF77C17E689]
+	(No symbol) [0x00007FF77C03B1CA]
+	(No symbol) [0x00007FF77C08EFD7]
+	(No symbol) [0x00007FF77C08F22C]
+	(No symbol) [0x00007FF77C0D97F7]
+	(No symbol) [0x00007FF77C0B672F]
+	(No symbol) [0x00007FF77C0D65D9]
+	(No symbol) [0x00007FF77C0B6493]
+	(No symbol) [0x00007FF77C0809B1]
+	(No symbol) [0x00007FF77C081B11]
+	GetHandleVerifier [0x00007FF77C528C5D+3295277]
+	GetHandleVerifier [0x00007FF77C574843+3605523]
+	GetHandleVerifier [0x00007FF77C56A707+3564247]
+	GetHandleVerifier [0x00007FF77C2C6EB6+797318]
+	(No symbol) [0x00007FF77C18980F]
+	(No symbol) [0x00007FF77C1853F4]
+	(No symbol) [0x00007FF77C185580]
+	(No symbol) [0x00007FF77C174A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 17:03:11,595:INFO:test_order:Test has get started
+2024-09-23 17:03:21,630:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Search for Products, Brands and More']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF77C20B5D2+29090]
+	(No symbol) [0x00007FF77C17E689]
+	(No symbol) [0x00007FF77C03B1CA]
+	(No symbol) [0x00007FF77C08EFD7]
+	(No symbol) [0x00007FF77C08F22C]
+	(No symbol) [0x00007FF77C0D97F7]
+	(No symbol) [0x00007FF77C0B672F]
+	(No symbol) [0x00007FF77C0D65D9]
+	(No symbol) [0x00007FF77C0B6493]
+	(No symbol) [0x00007FF77C0809B1]
+	(No symbol) [0x00007FF77C081B11]
+	GetHandleVerifier [0x00007FF77C528C5D+3295277]
+	GetHandleVerifier [0x00007FF77C574843+3605523]
+	GetHandleVerifier [0x00007FF77C56A707+3564247]
+	GetHandleVerifier [0x00007FF77C2C6EB6+797318]
+	(No symbol) [0x00007FF77C18980F]
+	(No symbol) [0x00007FF77C1853F4]
+	(No symbol) [0x00007FF77C185580]
+	(No symbol) [0x00007FF77C174A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-23 17:08:43,231:INFO:test_order:Test has get started
+2024-09-23 17:09:05,013:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='CROSS Refill BP Ball Pen Refill']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D018B5D2+29090]
+	(No symbol) [0x00007FF7D00FE689]
+	(No symbol) [0x00007FF7CFFBB1CA]
+	(No symbol) [0x00007FF7D000EFD7]
+	(No symbol) [0x00007FF7D000F22C]
+	(No symbol) [0x00007FF7D00597F7]
+	(No symbol) [0x00007FF7D003672F]
+	(No symbol) [0x00007FF7D00565D9]
+	(No symbol) [0x00007FF7D0036493]
+	(No symbol) [0x00007FF7D00009B1]
+	(No symbol) [0x00007FF7D0001B11]
+	GetHandleVerifier [0x00007FF7D04A8C5D+3295277]
+	GetHandleVerifier [0x00007FF7D04F4843+3605523]
+	GetHandleVerifier [0x00007FF7D04EA707+3564247]
+	GetHandleVerifier [0x00007FF7D0246EB6+797318]
+	(No symbol) [0x00007FF7D010980F]
+	(No symbol) [0x00007FF7D01053F4]
+	(No symbol) [0x00007FF7D0105580]
+	(No symbol) [0x00007FF7D00F4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-26 13:56:29,766:INFO:test_order:Test has get started
+2024-09-26 13:56:52,691:ERROR:test_order:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='CROSS Refill BP Ball Pen Refill']"}
+  (Session info: chrome=129.0.6668.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F605B5D2+29090]
+	(No symbol) [0x00007FF7F5FCE689]
+	(No symbol) [0x00007FF7F5E8B1CA]
+	(No symbol) [0x00007FF7F5EDEFD7]
+	(No symbol) [0x00007FF7F5EDF22C]
+	(No symbol) [0x00007FF7F5F297F7]
+	(No symbol) [0x00007FF7F5F0672F]
+	(No symbol) [0x00007FF7F5F265D9]
+	(No symbol) [0x00007FF7F5F06493]
+	(No symbol) [0x00007FF7F5ED09B1]
+	(No symbol) [0x00007FF7F5ED1B11]
+	GetHandleVerifier [0x00007FF7F6378C5D+3295277]
+	GetHandleVerifier [0x00007FF7F63C4843+3605523]
+	GetHandleVerifier [0x00007FF7F63BA707+3564247]
+	GetHandleVerifier [0x00007FF7F6116EB6+797318]
+	(No symbol) [0x00007FF7F5FD980F]
+	(No symbol) [0x00007FF7F5FD53F4]
+	(No symbol) [0x00007FF7F5FD5580]
+	(No symbol) [0x00007FF7F5FC4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+

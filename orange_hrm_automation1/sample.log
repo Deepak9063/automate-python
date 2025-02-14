@@ -1,0 +1,171 @@
+2024-09-19 12:18:24,749:INFO:test_e2e:Test case started
+2024-09-19 12:18:28,579:INFO:test_e2e:Test case ends
+2024-09-19 15:03:46,691:INFO:test_e2e:Test case started
+2024-09-19 15:03:50,444:INFO:test_e2e:Test case ends
+2024-09-19 15:08:13,697:INFO:test_e2e:Test case started
+2024-09-19 15:08:18,173:INFO:test_e2e:Test case ends
+2024-09-19 15:15:34,995:INFO:test_e2e:Test case started
+2024-09-19 15:15:41,527:INFO:test_e2e:Test case ends
+2024-09-19 15:39:51,128:INFO:test_e2e:Test case started
+2024-09-19 15:39:55,055:INFO:test_e2e:Test case ends
+2024-09-19 15:48:36,240:INFO:test_e2e:Test case started
+2024-09-19 15:48:40,097:INFO:test_e2e:Test case ends
+2024-09-19 16:16:17,625:INFO:test_e2e:Test case started
+2024-09-19 16:16:26,506:INFO:test_e2e:Test case ends
+2024-09-19 16:40:40,164:INFO:test_e2e:Test case started
+2024-09-19 16:40:56,216:ERROR:test_e2e:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='First Name']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AE89B5D2+29090]
+	(No symbol) [0x00007FF7AE80E689]
+	(No symbol) [0x00007FF7AE6CB1CA]
+	(No symbol) [0x00007FF7AE71EFD7]
+	(No symbol) [0x00007FF7AE71F22C]
+	(No symbol) [0x00007FF7AE7697F7]
+	(No symbol) [0x00007FF7AE74672F]
+	(No symbol) [0x00007FF7AE7665D9]
+	(No symbol) [0x00007FF7AE746493]
+	(No symbol) [0x00007FF7AE7109B1]
+	(No symbol) [0x00007FF7AE711B11]
+	GetHandleVerifier [0x00007FF7AEBB8C5D+3295277]
+	GetHandleVerifier [0x00007FF7AEC04843+3605523]
+	GetHandleVerifier [0x00007FF7AEBFA707+3564247]
+	GetHandleVerifier [0x00007FF7AE956EB6+797318]
+	(No symbol) [0x00007FF7AE81980F]
+	(No symbol) [0x00007FF7AE8153F4]
+	(No symbol) [0x00007FF7AE815580]
+	(No symbol) [0x00007FF7AE804A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-19 16:42:27,606:INFO:test_e2e:Test case started
+2024-09-19 16:42:42,667:ERROR:test_e2e:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='First Name']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A79AB5D2+29090]
+	(No symbol) [0x00007FF7A791E689]
+	(No symbol) [0x00007FF7A77DB1CA]
+	(No symbol) [0x00007FF7A782EFD7]
+	(No symbol) [0x00007FF7A782F22C]
+	(No symbol) [0x00007FF7A78797F7]
+	(No symbol) [0x00007FF7A785672F]
+	(No symbol) [0x00007FF7A78765D9]
+	(No symbol) [0x00007FF7A7856493]
+	(No symbol) [0x00007FF7A78209B1]
+	(No symbol) [0x00007FF7A7821B11]
+	GetHandleVerifier [0x00007FF7A7CC8C5D+3295277]
+	GetHandleVerifier [0x00007FF7A7D14843+3605523]
+	GetHandleVerifier [0x00007FF7A7D0A707+3564247]
+	GetHandleVerifier [0x00007FF7A7A66EB6+797318]
+	(No symbol) [0x00007FF7A792980F]
+	(No symbol) [0x00007FF7A79253F4]
+	(No symbol) [0x00007FF7A7925580]
+	(No symbol) [0x00007FF7A7914A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-19 16:49:32,749:INFO:test_e2e:Test case started
+2024-09-19 16:49:39,006:INFO:test_e2e:Info button is clicked
+2024-09-19 16:49:49,053:ERROR:test_e2e:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='First Name']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D86CB5D2+29090]
+	(No symbol) [0x00007FF6D863E689]
+	(No symbol) [0x00007FF6D84FB1CA]
+	(No symbol) [0x00007FF6D854EFD7]
+	(No symbol) [0x00007FF6D854F22C]
+	(No symbol) [0x00007FF6D85997F7]
+	(No symbol) [0x00007FF6D857672F]
+	(No symbol) [0x00007FF6D85965D9]
+	(No symbol) [0x00007FF6D8576493]
+	(No symbol) [0x00007FF6D85409B1]
+	(No symbol) [0x00007FF6D8541B11]
+	GetHandleVerifier [0x00007FF6D89E8C5D+3295277]
+	GetHandleVerifier [0x00007FF6D8A34843+3605523]
+	GetHandleVerifier [0x00007FF6D8A2A707+3564247]
+	GetHandleVerifier [0x00007FF6D8786EB6+797318]
+	(No symbol) [0x00007FF6D864980F]
+	(No symbol) [0x00007FF6D86453F4]
+	(No symbol) [0x00007FF6D8645580]
+	(No symbol) [0x00007FF6D8634A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-19 16:53:11,707:INFO:test_e2e:Test case started
+2024-09-19 16:53:18,958:INFO:test_e2e:Info button is clicked
+2024-09-19 16:53:28,994:ERROR:test_e2e:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='First Name']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B368B5D2+29090]
+	(No symbol) [0x00007FF7B35FE689]
+	(No symbol) [0x00007FF7B34BB1CA]
+	(No symbol) [0x00007FF7B350EFD7]
+	(No symbol) [0x00007FF7B350F22C]
+	(No symbol) [0x00007FF7B35597F7]
+	(No symbol) [0x00007FF7B353672F]
+	(No symbol) [0x00007FF7B35565D9]
+	(No symbol) [0x00007FF7B3536493]
+	(No symbol) [0x00007FF7B35009B1]
+	(No symbol) [0x00007FF7B3501B11]
+	GetHandleVerifier [0x00007FF7B39A8C5D+3295277]
+	GetHandleVerifier [0x00007FF7B39F4843+3605523]
+	GetHandleVerifier [0x00007FF7B39EA707+3564247]
+	GetHandleVerifier [0x00007FF7B3746EB6+797318]
+	(No symbol) [0x00007FF7B360980F]
+	(No symbol) [0x00007FF7B36053F4]
+	(No symbol) [0x00007FF7B3605580]
+	(No symbol) [0x00007FF7B35F4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-19 17:21:46,887:INFO:test_e2e:Test case started
+2024-09-19 17:21:47,578:ERROR:test_e2e:'Profile' object has no attribute 'myInfo_button'
+2024-09-19 17:23:30,645:INFO:test_e2e:Test case started
+2024-09-19 17:23:43,653:ERROR:test_e2e:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[class='oxd-main-menu-item active']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D7EBB5D2+29090]
+	(No symbol) [0x00007FF6D7E2E689]
+	(No symbol) [0x00007FF6D7CEB1CA]
+	(No symbol) [0x00007FF6D7D3EFD7]
+	(No symbol) [0x00007FF6D7D3F22C]
+	(No symbol) [0x00007FF6D7D897F7]
+	(No symbol) [0x00007FF6D7D6672F]
+	(No symbol) [0x00007FF6D7D865D9]
+	(No symbol) [0x00007FF6D7D66493]
+	(No symbol) [0x00007FF6D7D309B1]
+	(No symbol) [0x00007FF6D7D31B11]
+	GetHandleVerifier [0x00007FF6D81D8C5D+3295277]
+	GetHandleVerifier [0x00007FF6D8224843+3605523]
+	GetHandleVerifier [0x00007FF6D821A707+3564247]
+	GetHandleVerifier [0x00007FF6D7F76EB6+797318]
+	(No symbol) [0x00007FF6D7E3980F]
+	(No symbol) [0x00007FF6D7E353F4]
+	(No symbol) [0x00007FF6D7E35580]
+	(No symbol) [0x00007FF6D7E24A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-19 17:27:57,120:INFO:test_e2e:Test case started
+2024-09-19 17:28:03,775:ERROR:test_e2e:'NoneType' object has no attribute 'click'
+2024-09-19 17:29:14,735:INFO:test_e2e:Test case started
+2024-09-19 17:29:19,431:INFO:test_e2e:PIM button is clicked
+2024-09-19 17:29:19,431:INFO:test_e2e:Test case ends
+2024-09-20 06:18:07,889:INFO:test_e2e:Test case started
+2024-09-20 06:18:17,362:INFO:test_e2e:PIM button is clicked
+2024-09-20 06:18:17,363:INFO:test_e2e:Test case ends
+2024-09-20 06:20:51,482:INFO:test_e2e:Test case started
+2024-09-20 06:20:57,794:INFO:test_e2e:PIM button is clicked
+2024-09-20 06:20:57,796:INFO:test_e2e:Test case ends
+2024-09-20 14:53:30,693:INFO:test_e2e:Test case started
+2024-09-20 14:53:38,742:INFO:test_e2e:PIM button is clicked
+2024-09-20 14:53:38,743:INFO:test_e2e:Test case ends
+2024-10-21 13:16:54,714:INFO:test_e2e:Test case started
+2024-10-21 13:17:13,766:INFO:test_e2e:PIM button is clicked
+2024-10-21 13:17:13,767:INFO:test_e2e:Test case ends
+2024-10-21 16:24:21,766:INFO:test_e2e:Test case started
+2024-10-21 16:24:25,421:INFO:test_e2e:PIM button is clicked
+2024-10-21 16:24:25,421:INFO:test_e2e:Test case ends
+2024-10-21 16:24:37,798:INFO:test_e2e:Test case started
+2024-10-21 16:24:41,281:INFO:test_e2e:PIM button is clicked
+2024-10-21 16:24:41,282:INFO:test_e2e:Test case ends

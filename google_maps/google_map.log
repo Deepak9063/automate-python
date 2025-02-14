@@ -1,0 +1,55 @@
+2024-09-20 12:45:06,054:INFO:test_maps:Test case has started
+2024-09-20 12:45:08,067:INFO:test_maps:Test case ends
+2024-09-20 12:45:35,324:INFO:test_maps:Test case has started
+2024-09-20 12:45:37,154:INFO:test_maps:Test case ends
+2024-09-20 12:47:28,185:INFO:test_maps:Test case has started
+2024-09-20 12:47:28,641:INFO:test_maps:Test case ends
+2024-09-20 12:48:01,799:INFO:test_maps:Test case has started
+2024-09-20 12:48:03,060:INFO:test_maps:Test case ends
+2024-09-20 12:57:10,666:INFO:test_maps:Test case has started
+2024-09-20 13:02:38,573:INFO:sample:printted
+2024-09-20 13:02:45,144:INFO:sample:printted
+2024-09-20 13:03:40,857:INFO:sample:printted
+2024-09-20 13:06:30,199:INFO:sample:printted
+2024-09-20 13:26:46,597:INFO:test_maps:Test case has started
+2024-09-20 13:26:48,733:INFO:test_maps:Test case ends
+2024-09-20 13:27:42,245:INFO:test_maps:Test case has started
+2024-09-20 13:27:43,834:INFO:test_maps:Test case ends
+2024-09-20 13:27:59,765:INFO:test_maps:Test case has started
+2024-09-20 13:28:06,631:INFO:test_maps:Test case ends
+2024-09-20 13:31:03,995:INFO:test_maps:Test case has started
+2024-09-20 13:31:14,479:ERROR:test_maps:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@aria-label='Restaurants']"}
+  (Session info: chrome=128.0.6613.139); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76FE4B5D2+29090]
+	(No symbol) [0x00007FF76FDBE689]
+	(No symbol) [0x00007FF76FC7B1CA]
+	(No symbol) [0x00007FF76FCCEFD7]
+	(No symbol) [0x00007FF76FCCF22C]
+	(No symbol) [0x00007FF76FD197F7]
+	(No symbol) [0x00007FF76FCF672F]
+	(No symbol) [0x00007FF76FD165D9]
+	(No symbol) [0x00007FF76FCF6493]
+	(No symbol) [0x00007FF76FCC09B1]
+	(No symbol) [0x00007FF76FCC1B11]
+	GetHandleVerifier [0x00007FF770168C5D+3295277]
+	GetHandleVerifier [0x00007FF7701B4843+3605523]
+	GetHandleVerifier [0x00007FF7701AA707+3564247]
+	GetHandleVerifier [0x00007FF76FF06EB6+797318]
+	(No symbol) [0x00007FF76FDC980F]
+	(No symbol) [0x00007FF76FDC53F4]
+	(No symbol) [0x00007FF76FDC5580]
+	(No symbol) [0x00007FF76FDB4A1F]
+	BaseThreadInitThunk [0x00007FFC3A04257D+29]
+	RtlUserThreadStart [0x00007FFC3AFCAF28+40]
+
+2024-09-20 13:31:56,868:INFO:test_maps:hi
+2024-09-20 13:31:56,870:INFO:test_maps:Test case has started
+2024-09-20 13:31:59,062:INFO:test_maps:Test case ends
+2024-09-20 13:34:27,652:INFO:test_maps:hi
+2024-09-20 13:34:34,347:INFO:test_maps:Test case has started
+2024-09-20 13:34:38,265:INFO:test_maps:Test case ends
+2024-09-20 13:49:13,186:INFO:test_maps:Test case has started
+2024-09-20 13:49:15,348:INFO:test_maps:Test case ends
+2024-10-21 13:21:50,719:INFO:test_maps:Test case has started
+2024-10-21 13:21:52,377:INFO:test_maps:Test case ends
