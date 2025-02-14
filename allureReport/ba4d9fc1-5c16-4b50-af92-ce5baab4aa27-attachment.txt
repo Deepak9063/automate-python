@@ -1,0 +1,2 @@
+[32mINFO    [0m test_mobile_app:Test_phone.py:11 Testing has started
+[32mINFO    [0m test_mobile_app:Test_phone.py:52 Test has ended

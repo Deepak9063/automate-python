@@ -1,0 +1,6 @@
+[32mINFO    [0m test_mobile_app:Test_phone.py:17 Testing has started
+[32mINFO    [0m test_mobile_app:Test_phone.py:42 It has completed pressing all the numbers
+[1m[31mERROR   [0m test_mobile_app:Test_phone.py:66 Message: An element could not be located on the page using the given search parameters.
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\deepa\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)

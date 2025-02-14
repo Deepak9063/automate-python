@@ -1,0 +1,82 @@
+2024-09-30 13:21:19,515:INFO:test_mobile_app:Testing has started
+2024-09-30 13:21:30,113:ERROR:test_mobile_app:Message: An element could not be located on the page using the given search parameters.
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\deepa\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-09-30 13:22:55,998:INFO:test_mobile_app:Testing has started
+2024-09-30 13:23:12,565:ERROR:test_mobile_app:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-09-30 13:31:24,970:INFO:test_mobile_app:Testing has started
+2024-09-30 13:31:42,435:ERROR:test_mobile_app:Message: An element could not be located on the page using the given search parameters.
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\deepa\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-09-30 13:34:08,583:INFO:test_mobile_app:Testing has started
+2024-09-30 13:34:26,287:ERROR:test_mobile_app:Message: An element could not be located on the page using the given search parameters.
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\deepa\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-09-30 13:43:46,316:INFO:test_mobile_app:Testing has started
+2024-09-30 13:44:05,609:ERROR:test_mobile_app:Message: An element could not be located on the page using the given search parameters.
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\deepa\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-09-30 13:46:14,482:INFO:test_mobile_app:Testing has started
+2024-09-30 13:46:38,851:INFO:test_mobile_app:Test has ended
+2024-09-30 13:52:08,509:INFO:test_mobile_app:Testing has started
+2024-09-30 13:52:24,553:ERROR:test_mobile_app:('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+2024-09-30 13:53:50,629:INFO:test_mobile_app:Testing has started
+2024-09-30 13:54:08,554:ERROR:test_mobile_app:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-09-30 14:47:14,369:INFO:test_mobile_app:Testing has started
+2024-09-30 14:47:33,189:ERROR:test_mobile_app:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-09-30 15:40:00,321:INFO:test_mobile_app:Testing has started
+2024-09-30 15:40:24,270:INFO:test_mobile_app:Test has ended
+2024-10-04 11:31:22,015:INFO:test_mobile_app:Testing has started
+2024-10-04 11:31:38,579:ERROR:test_mobile_app:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-10-04 11:33:52,063:INFO:test_mobile_app:Testing has started
+2024-10-04 11:34:11,234:INFO:test_mobile_app:Test has ended
+2024-10-08 14:08:25,512:INFO:test_mobile_app:Testing has started
+2024-10-08 14:08:46,366:ERROR:test_mobile_app:('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-10-08 14:12:09,179:INFO:test_mobile_app:Testing has started
+2024-10-08 14:12:33,415:INFO:test_mobile_app:Test has ended
+2024-10-08 16:19:56,601:INFO:test_mobile_app:Testing has started
+2024-10-08 16:20:09,414:ERROR:test_mobile_app:Message: An element could not be located on the page using the given search parameters.
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\deepa\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-10-09 11:29:24,242:INFO:test_mobile_app:Testing has started
+2024-10-09 11:29:35,798:ERROR:test_mobile_app:Message: An element could not be located on the page using the given search parameters.
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\deepa\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-10-09 11:31:43,357:INFO:test_mobile_app:Testing has started
+2024-10-09 11:31:55,280:ERROR:test_mobile_app:Message: An element could not be located on the page using the given search parameters.
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\deepa\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-10-09 11:33:15,281:INFO:test_mobile_app:Testing has started
+2024-10-09 11:33:30,048:ERROR:test_mobile_app:Message: An element could not be located on the page using the given search parameters.
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\deepa\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-10-09 11:35:46,146:INFO:test_mobile_app:Testing has started
+2024-10-09 11:35:58,675:INFO:test_mobile_app:It has completed pressing all the numbers
+2024-10-09 11:36:03,730:ERROR:test_mobile_app:Message: An element could not be located on the page using the given search parameters.
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\deepa\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-10-09 12:21:27,898:INFO:test_mobile_app:Testing has started
+2024-10-09 12:21:29,415:ERROR:test_mobile_app:Message: An element could not be located on the page using the given search parameters.
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\deepa\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-10-09 12:22:07,396:INFO:test_mobile_app:Testing has started
+2024-10-09 12:22:08,066:ERROR:test_mobile_app:Message: An element could not be located on the page using the given search parameters.
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\deepa\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2024-10-16 12:47:37,543:INFO:test_mobile_app:Testing has started
+2024-10-16 12:47:50,935:INFO:test_mobile_app:It has completed pressing all the numbers
+2024-10-16 12:47:53,198:ERROR:test_mobile_app:Message: An element could not be located on the page using the given search parameters.
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\deepa\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
